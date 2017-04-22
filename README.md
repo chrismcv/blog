@@ -1,3 +1,4 @@
-# My Awesome Book
+# Intro
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This repository serves as a placeholder from some notes on books that I'm reading.
+
